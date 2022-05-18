@@ -1,1 +1,2 @@
 This is some text
+Ce fichier est modifié direct dans git
